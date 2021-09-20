@@ -3,7 +3,7 @@
 ## Komponenten
 
 - Access Point: ``wpa_supplicant``
-- DHCP-Server: ``dnsmasq``<!---jaja, komische Wahl der Software--->
+- DHCP-Server: ``dnsmasq``<!--jaja, komische Wahl der Software-->
 
 ## Installation und Konfiguration in Buildroot
 
